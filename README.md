@@ -93,7 +93,9 @@ This will run the application with the default loaded class
 
 Otherwise just run the application without the cla (Command Line Arguments) to run the application from the beginning
 
-## Unit TestsThe application is made in such a way that you can use CLI arguments to run the application in the necessary state
+## Unit Tests
+
+The application is made in such a way that you can use CLI arguments to run the application in the necessary state
 If you wish to run it from Visual Studio with the Unit Tests you need to go to:
 
 `Project > Properties > Debug` 
