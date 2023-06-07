@@ -1,0 +1,20 @@
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\obj\Release\POE.csproj.AssemblyReference.cache
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\obj\Release\POE.csproj.SuggestedBindingRedirects.cache
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\obj\Release\POE.csproj.CoreCompileInputs.cache
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\bin\Release\POE.exe.config
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\bin\Release\POE.exe
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\bin\Release\POE.pdb
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\obj\Release\POE.csproj.CopyComplete
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\obj\Release\POE.exe
+C:\Users\camcs\Desktop\IIE MSA\Year 2\Semester 1\PROG6221\POE\Part 1\POE\obj\Release\POE.pdb
+C:\Users\Nicole\OneDrive\Desktop\Cameron\IIE MSA\Prog\prog6221-part1-ST10042763-main\bin\Release\POE.exe.config
+C:\Users\Nicole\OneDrive\Desktop\Cameron\IIE MSA\Prog\prog6221-part1-ST10042763-main\bin\Release\POE.exe
+C:\Users\Nicole\OneDrive\Desktop\Cameron\IIE MSA\Prog\prog6221-part1-ST10042763-main\bin\Release\POE.pdb
+C:\Users\Nicole\OneDrive\Desktop\Cameron\IIE MSA\Prog\prog6221-part1-ST10042763-main\bin\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Nicole\OneDrive\Desktop\Cameron\IIE MSA\Prog\prog6221-part1-ST10042763-main\obj\Release\POE.csproj.AssemblyReference.cache
+C:\Users\Nicole\OneDrive\Desktop\Cameron\IIE MSA\Prog\prog6221-part1-ST10042763-main\obj\Release\POE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicole\OneDrive\Desktop\Cameron\IIE MSA\Prog\prog6221-part1-ST10042763-main\obj\Release\POE.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\OneDrive\Desktop\Cameron\IIE MSA\Prog\prog6221-part1-ST10042763-main\obj\Release\POE.csproj.CopyComplete
+C:\Users\Nicole\OneDrive\Desktop\Cameron\IIE MSA\Prog\prog6221-part1-ST10042763-main\obj\Release\POE.exe
+C:\Users\Nicole\OneDrive\Desktop\Cameron\IIE MSA\Prog\prog6221-part1-ST10042763-main\obj\Release\POE.pdb
